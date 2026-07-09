@@ -21,7 +21,7 @@
 <a href="https://www.linkedin.com/in/gaurav-kaushik-74529b276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-kaushik" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/gk55541/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="leetcode" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kaushik_gaurav11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaushik_gaurav11" height="30" width="40" /></a>
-<a href="mailto:gauravkaushik1710@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
+<a href="mailto:gauravkaushik1710@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="30" /></a>
 </p>
 
 ###
