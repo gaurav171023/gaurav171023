@@ -1,1 +1,5 @@
-file:///C:/Users/gaura/Downloads/banner.svg
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="180" fill="#0D1117"/>
+  <text x="450" y="90" text-anchor="middle" font-family="Fira Code, monospace" font-size="46" font-weight="700" fill="#FF6FB5">GAURAV KAUSHIK</text>
+  <text x="450" y="128" text-anchor="middle" font-family="Fira Code, monospace" font-size="18" fill="#FF6FB5">AI-Fullstack Developer | Data &amp; Cloud</text>
+</svg>
