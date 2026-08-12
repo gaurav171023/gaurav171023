@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=180&section=header&text=GAURAV%20KAUSHIK&fontColor=FF6FB5&fontSize=52&fontAlignY=45&desc=AI-Fullstack%20Developer%20%7C%20Data%20%26%20Cloud&descAlignY=70&descSize=18&descColor=FF6FB5&animation=fadeIn" width="100%"/>
+<img src="./profile/banner.svg" width="100%"/>
 
 <a href="https://github.com/gaurav171023">
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3500&pause=1000&color=FF6FB5&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=200&lines=%24+whoami;GAURAV+KAUSHIK+%E2%80%94+AI-Fullstack+Developer;%24+cat+focus.txt;Building+RAG+systems%2C+full-stack+apps%2C+AWS+pipelines;%24+status+--current;Diving+deep+into+AWS+%2B+Cloud+Full-Stack" alt="Typing SVG" />
@@ -213,16 +213,6 @@ const gaurav = {
 <img src="./profile/streak.svg" width="49%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav171023&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FF6FB5&text_color=C9D1D9" width="49%"/>
-
-</div>
-
-<br/>
-
-## `$ ./trophies.sh`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=gaurav171023&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&v=2" width="100%"/>
 
 </div>
 
