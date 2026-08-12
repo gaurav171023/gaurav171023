@@ -222,7 +222,7 @@ const gaurav = {
 
 <div align="center">
 
-<img src="./profile/trophy.svg" width="100%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=gaurav171023&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8&v=2" width="100%"/>
 
 </div>
 
