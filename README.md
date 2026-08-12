@@ -3,7 +3,7 @@
 <img src="./profile/banner.svg" width="100%"/>
 
 <a href="https://github.com/gaurav171023">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3500&pause=1000&color=FF6FB5&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=200&lines=%24+whoami;GAURAV+KAUSHIK+%E2%80%94+AI-Fullstack+Developer;%24+cat+focus.txt;Building+RAG+systems%2C+full-stack+apps%2C+AWS+pipelines;%24+status+--current;Diving+deep+into+AWS+%2B+Cloud+Full-Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3500&pause=1000&color=FF6FB5&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=200&lines=%24+whoami;GAURAV+KAUSHIK+%E2%80%94+AI-Fullstack+Developer;%24+cat+focus.txt;Building+RAG+systems%2C+full-stack+apps%2C+AWS+pipelines;%24+status+--current;Diving+deep+into+AWS+%2B+Cloud+Full-Stack" alt="Typing SVG" />
 </a>
 
 <br/>
