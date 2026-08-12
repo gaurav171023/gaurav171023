@@ -222,7 +222,7 @@ const gaurav = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=gaurav171023&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+<img src="https://github-profile-trophy-kannan.vercel.app/?username=gaurav171023&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
 
 </div>
 
@@ -259,9 +259,9 @@ const gaurav = {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaurav171023/gaurav171023/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaurav171023/gaurav171023/output/github-contribution-grid-snake.svg" />
-  <img alt="github snake" src="https://raw.githubusercontent.com/gaurav171023/gaurav171023/output/github-contribution-grid-snake.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gaurav171023/gaurav171023/output/github-contribution-grid-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gaurav171023/gaurav171023/output/github-contribution-grid-snake.svg?v=2" />
+  <img alt="github snake" src="https://raw.githubusercontent.com/gaurav171023/gaurav171023/output/github-contribution-grid-snake.svg?v=2" width="100%"/>
 </picture>
 
 </div>
