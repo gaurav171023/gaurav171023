@@ -1,82 +1,298 @@
-<h1 align="center">Hi 👋, I'm Gaurav Kaushik</h1>
-<h3 align="center">Data Science & AI Engineer | Building intelligent systems that scale</h3>
+<div align="center">
 
-###
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=180&section=header&text=GAURAV%20KAUSHIK&fontColor=39FF14&fontSize=52&fontAlignY=45&desc=AI-Fullstack%20Developer%20%7C%20Data%20%26%20Cloud&descAlignY=70&descSize=18&descColor=39FF14&animation=fadeIn" width="100%"/>
 
-<p align="center">
-  <img align="right" height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" />
-</p>
+<a href="https://github.com/gaurav171023">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=39FF14&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=120&lines=%24+whoami;GAURAV+KAUSHIK+%E2%80%94+AI-Fullstack+Developer;%24+cat+focus.txt;Building+RAG+systems%2C+full-stack+apps%2C+AWS+pipelines;%24+status+--current;Diving+deep+into+AWS+%2B+Cloud+Full-Stack" alt="Typing SVG" />
+</a>
 
-###
+<br/>
 
-- 🎓 Final-year **B.Tech CSE (Data Science)** student at JSS Academy of Technical Education, Noida — graduating 2026
-- 🔭 I'm currently working on **RAG-based AI systems, data pipelines, and full-stack applications**
-- 🌱 I'm currently strengthening **DSA, React/Node.js, and cloud data engineering (AWS Glue, Airflow, LangGraph)**
-- 💬 Ask me about **Python, SQL, Machine Learning, GenAI/RAG, AWS, React, Data Pipelines**
-- 📫 How to reach me: **gauravkaushik1710@gmail.com**
-- ⚡ Fun fact: I enjoy turning messy data into clean pipelines and messy ideas into working prototypes
+![Degree](https://img.shields.io/badge/B.Tech-CSE%20(Data%20Science)-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
+![University](https://img.shields.io/badge/JSS%20Academy%20of%20Technical%20Education-Noida-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
+![Location](https://img.shields.io/badge/📍-Noida,%20Uttar%20Pradesh,%20India-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/gaurav-kaushik-74529b276" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gaurav-kaushik" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/gk55541/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" alt="leetcode" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kaushik_gaurav11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kaushik_gaurav11" height="30" width="40" /></a>
-<a href="mailto:gauravkaushik1710@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" height="30" /></a>
-</p>
+<br/>
 
-###
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-COMING%20SOON-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14)](#)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0D1117&color=39FF14)](https://linkedin.com/in/gaurav-kaushik-74529b276)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D1117&color=39FF14)](mailto:gauravkaushik1710@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-0D1117?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0D1117&color=39FF14)](https://github.com/gaurav171023)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-0D1117?style=for-the-badge&logo=instagram&logoColor=39FF14&labelColor=0D1117&color=39FF14)](https://instagram.com/kaushik_gaurav11)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-SOLVE-0D1117?style=for-the-badge&logo=leetcode&logoColor=39FF14&labelColor=0D1117&color=39FF14)](https://leetcode.com/u/gk55541/)
 
-## 🛠️ Languages and Tools
+<br/>
 
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-<a href="https://www.w3schools.com/sql/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="sql" width="40" height="40"/></a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="40" height="40"/></a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="40" height="40"/></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="sklearn" width="40" height="40"/></a>
-<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="40" height="40"/></a>
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="40" height="40"/></a>
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="flask" width="40" height="40"/></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=gaurav171023&style=flat-square&color=39FF14&labelColor=0D1117)
+![Followers](https://img.shields.io/github/followers/gaurav171023?style=flat-square&labelColor=0D1117&color=39FF14)
+![Stars](https://img.shields.io/github/stars/gaurav171023?style=flat-square&labelColor=0D1117&color=39FF14)
 
-###
+</div>
 
-## 📌 Featured Projects
+<br/>
 
-- 🤖 **RAG-Based AI Teaching Assistant** — Retrieval-augmented Q&A system built with local LLMs (Ollama/LLaMA 3.2)
-- ☁️ **AWS E-commerce Data Pipeline** — End-to-end pipeline with S3, EC2, and Athena feeding a sales dashboard
-- 🔒 **Healthcare Cybersecurity Intrusion Detection System** — ML-based IDS for anomaly detection
-- 🌦️ **Weather Prediction System** — ML model for weather forecasting, deployed and open-sourced
-- 🎬 **VideoSnapAI** — AI-powered video processing tool
-- ✅ **Team Task Manager** — Full-stack app with Node.js/Express, Prisma, React, JWT auth & RBAC, deployed on Railway + Vercel
+## `$ cat about.md`
 
-###
+I'm a **2026 B.Tech CSE (Data Science) graduate** from JSS Academy of Technical Education, Noida, building at the intersection of **AI/RAG systems, full-stack engineering, and cloud infrastructure**. I've shipped 4 production-deployed projects — from a Retrieval-Augmented Generation teaching assistant to a full-stack task manager with JWT auth — and I'm currently deep in AWS + cloud-native full-stack development.
 
-## 📊 GitHub Stats
+```bash
+const gaurav = {
+  role: "AI-Fullstack Developer",
+  experience: "Fresher — 1mo Data Science/Analytics internship",
+  domain: ["AI/GenAI", "Full-Stack Web Dev", "Cloud/ETL", "Data Analytics"],
+  stack: ["Python", "JavaScript", "React", "Node.js", "AWS", "PostgreSQL"],
+  open_to: ["AI-Fullstack Developer", "Data Analyst", "Data Scientist", "Full-Stack Developer"]
+};
+```
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gaurav171023&show_icons=true&theme=radical&count_private=true" alt="Gaurav's GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav171023&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav171023&theme=radical" alt="GitHub Streak"/>
-</p>
+## `$ ls tech-stack/`
 
-###
+**Languages & Core**
+![](https://skillicons.dev/icons?i=py,js,html,css,sql&theme=dark)
 
-## 🐍 Contribution Snake
+**Frontend & Backend**
+![](https://skillicons.dev/icons?i=react,nodejs,express,flask,fastapi&theme=dark)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gaurav171023/gaurav171023/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
+**Databases & ORM**
+![](https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,prisma&theme=dark)
 
-<p align="center"><i>Note: the snake animation requires the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action set up in a repo named <code>gaurav171023/gaurav171023</code> — once added, this image will animate automatically.</i></p>
+**Cloud & DevOps**
+![](https://skillicons.dev/icons?i=aws,git,github,vercel,render&theme=dark)
 
-<br clear="both">
+**AI / ML / Data**
+![](https://skillicons.dev/icons?i=sklearn,pandas,numpy,powerbi&theme=dark)
+
+<br/>
+
+## `$ cat specialties.json`
+
+![RAG](https://img.shields.io/badge/RAG%20Architecture-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
+![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
+![JWT Auth](https://img.shields.io/badge/JWT%20Auth%20%26%20RBAC-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
+![Cloud Deployment](https://img.shields.io/badge/AWS%20Cloud%20Deployment-0D1117?style=flat-square&labelColor=0D1117&color=39FF14)
+
+<br/>
+
+## `$ cat expertise.md`
+
+| Domain | Proficiency | Details |
+|:--|:--:|:--|
+| Full-Stack Web Dev | ●●●●○ | React, Node.js, Express, Prisma, JWT auth, RBAC — 4 shipped projects |
+| AI / GenAI / RAG | ●●●●○ | RAG pipelines, LLM integration, Whisper transcription, vector retrieval |
+| Cloud & ETL (AWS) | ●●●○○ | S3, EC2, Athena — ETL pipelines processing ~5,000+ records |
+| Data Analytics & BI | ●●●●○ | Pandas, Power BI, EDA, NLP sentiment classification (94% accuracy) |
+| Databases & ORM | ●●●●○ | PostgreSQL, MongoDB, MySQL, SQLite, Prisma ORM |
+| DSA & CS Fundamentals | ●●●○○ | 50+ LeetCode/SQL problems, OOP, DBMS, OS, Computer Networks |
+
+<br/>
+
+## `$ ls featured-projects/`
+
+<details open>
+<summary><b>🤖 RAG-Based AI Teaching Assistant</b></summary>
+<br/>
+
+**Live:** [rag-based-ai-teaching-assistant-ddqa.onrender.com](https://rag-based-ai-teaching-assistant-ddqa.onrender.com) · **Repo:** [github.com/gaurav171023/RAG-Based-AI-Teaching--Assistant](https://github.com/gaurav171023/RAG-Based-AI-Teaching--Assistant)
+
+| Stack | Scale | Impact |
+|:--|:--|:--|
+| FastAPI, Groq API, Whisper API, Jina Embeddings, NumPy, Pandas, Scikit-learn | 7,252+ indexed transcript chunks | Context-aware Q&A with timestamped video navigation |
+
+- Engineered a full RAG system: Whisper transcription → Jina embeddings → cosine-similarity retrieval → Groq Llama 3.1 answer generation
+- Built production-ready FastAPI backend deployed live on Render
+
+</details>
+
+<details>
+<summary><b>🛡️ Healthcare Cybersecurity Intrusion Detection System</b></summary>
+<br/>
+
+**Live:** [healthcare-cybersecurity-intrusion-wg80.onrender.com](https://healthcare-cybersecurity-intrusion-wg80.onrender.com) · **Repo:** [github.com/gaurav171023/Healthcare-Cybersecurity-Intrusion-Detection-System](https://github.com/gaurav171023/Healthcare-Cybersecurity-Intrusion-Detection-System)
+
+| Stack | Scale | Impact |
+|:--|:--|:--|
+| Flask, Python, Scikit-learn, SQLite | NSL-KDD dataset, 41 features, 5 attack categories | 79% test accuracy, 0.60 Macro F1 |
+
+- Full-stack Flask IDS classifying network traffic with a Scikit-learn ML pipeline
+- Integrated confidence scoring, user auth, SQLite prediction logging, and analytics dashboard
+
+</details>
+
+<details>
+<summary><b>☁️ AWS Data Pipeline & Sales Dashboard</b></summary>
+<br/>
+
+**Repo:** [github.com/gaurav171023/Aws-Data-Pipeline-Sales-Dashboard](https://github.com/gaurav171023/Aws-Data-Pipeline-Sales-Dashboard)
+
+| Stack | Scale | Impact |
+|:--|:--|:--|
+| Python, AWS S3, EC2, Athena, Power BI | ~5,000 sales records | Interactive stakeholder-facing reporting layer |
+
+- Designed a Python ETL pipeline on AWS to ingest, clean, and transform multi-source sales data
+- Built an interactive Power BI dashboard on top of the processed data
+
+</details>
+
+<details>
+<summary><b>📋 Team Task Manager — Full Stack Web App</b></summary>
+<br/>
+
+**Live:** [team-task-manager-topaz-tau.vercel.app](https://team-task-manager-topaz-tau.vercel.app) · **Repo:** [github.com/gaurav171023/Team-Task-Manager](https://github.com/gaurav171023/Team-Task-Manager)
+
+| Stack | Scale | Impact |
+|:--|:--|:--|
+| React.js, Node.js, Express.js, Prisma, PostgreSQL | 4 relational data models | Production-ready deployment on Vercel |
+
+- Full-stack task management platform with JWT authentication and role-based access control
+- Normalized PostgreSQL schema managed through Prisma ORM
+
+</details>
+
+<br/>
+
+## `$ git log --oneline experience`
+
+**Brainwave Matrix Solutions** — Data Science / Data Analytics Intern (Remote)
+`Aug 18 – Sep 18, 2025 (1 Month)`
+
+- Built an NLP sentiment analysis system classifying 3,150+ Amazon reviews using NLTK + TF-IDF
+- Trained and compared Random Forest, XGBoost, and Decision Tree classifiers — up to 94% test accuracy; deployed as a Flask REST API with a Streamlit frontend
+- Ran EDA on an 11,000+ record retail sales dataset to uncover purchasing patterns across demographics
+- Identified high-value customer segments to inform targeted marketing strategy
+
+`Skills:` ![](https://img.shields.io/badge/-Python-0D1117?style=flat-square&color=39FF14) ![](https://img.shields.io/badge/-NLTK-0D1117?style=flat-square&color=39FF14) ![](https://img.shields.io/badge/-Scikit--learn-0D1117?style=flat-square&color=39FF14) ![](https://img.shields.io/badge/-Flask-0D1117?style=flat-square&color=39FF14) ![](https://img.shields.io/badge/-Pandas-0D1117?style=flat-square&color=39FF14)
+
+<br/>
+
+## `$ cat achievements.md`
+
+<div align="center">
+
+| Achievement | Detail |
+|:--|:--|
+| 🚀 Shipped Projects | 4 production-deployed projects across AI/RAG, ML, full-stack, and cloud ETL |
+| 🧩 DSA Practice | 50+ LeetCode/SQL problems solved |
+| 🎯 Model Accuracy | 94% test accuracy on NLP sentiment classification (Amazon reviews) |
+| 📊 Academic | 98.6% in Class X, 100/100 in Mathematics, district-level recognition |
+| 🎓 CGPA | 8.5/10 — B.Tech CSE (Data Science) |
+
+</div>
+
+<br/>
+
+## `$ cat education.badge`
+
+<div align="center">
+
+[![Education](https://img.shields.io/badge/B.Tech%20CSE%20(Data%20Science)-JSS%20Academy%20of%20Technical%20Education,%20Noida-0D1117?style=for-the-badge&labelColor=0D1117&color=39FF14)](#)
+
+</div>
+
+<br/>
+
+## `$ cat coding-profiles.md`
+
+<div align="center">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-gk55541-0D1117?style=for-the-badge&logo=leetcode&logoColor=39FF14&labelColor=0D1117&color=39FF14)](https://leetcode.com/u/gk55541/)
+
+</div>
+
+<br/>
+
+## `$ fetch --analytics`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=gaurav171023&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=39FF14&icon_color=39FF14&text_color=C9D1D9&ring_color=39FF14" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav171023&theme=transparent&hide_border=true&background=0D1117&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav171023&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9" width="49%"/>
+
+</div>
+
+<br/>
+
+## `$ ./trophies.sh`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=gaurav171023&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%"/>
+
+</div>
+
+<br/>
+
+## `$ tail -f activity.log`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav171023&theme=react-dark&bg_color=0D1117&color=39FF14&line=39FF14&point=C9D1D9&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+<br/>
+
+## `$ summary --full`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurav171023&theme=github_dark" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaurav171023&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaurav171023&theme=github_dark" width="49%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaurav171023&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gaurav171023&theme=github_dark&utcOffset=5.5" width="49%"/>
+
+</div>
+
+<br/>
+
+## `$ ./snake.sh --render`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/gaurav171023/gaurav171023/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+</div>
+
+<br/>
+
+## `$ cat current-focus.yaml`
+
+```yaml
+currently_learning: AWS Cloud (deep dive) + Full-Stack architecture
+currently_building: AI-Fullstack projects combining RAG/LLM systems with production web apps
+exploring: Advanced ETL pipelines, cloud-native deployment patterns
+open_to:
+  - AI-Fullstack Developer
+  - Data Analyst
+  - Data Scientist
+  - Full-Stack Developer
+```
+
+<br/>
+
+## `$ ./connect.sh`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=0D1117&color=39FF14)](https://linkedin.com/in/gaurav-kaushik-74529b276)
+[![Email](https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D1117&color=39FF14)](mailto:gauravkaushik1710@gmail.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=39FF14&labelColor=0D1117&color=39FF14)](https://instagram.com/kaushik_gaurav11)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=39FF14&labelColor=0D1117&color=39FF14)](https://leetcode.com/u/gk55541/)
+[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=39FF14&labelColor=0D1117&color=39FF14)](https://github.com/gaurav171023)
+
+<br/>
+
+*"Shipping code that learns, scales, and connects."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:0D1117&height=100&section=footer"/>
+
+</div>
