@@ -1,31 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=180&section=header&text=GAURAV%20KAUSHIK&fontColor=2ECC71&fontSize=52&fontAlignY=45&desc=AI-Fullstack%20Developer%20%7C%20Data%20%26%20Cloud&descAlignY=70&descSize=18&descColor=2ECC71&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:0D1117&height=180&section=header&text=GAURAV%20KAUSHIK&fontColor=FF6FB5&fontSize=52&fontAlignY=45&desc=AI-Fullstack%20Developer%20%7C%20Data%20%26%20Cloud&descAlignY=70&descSize=18&descColor=FF6FB5&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/gaurav171023">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3500&pause=1000&color=2ECC71&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=200&lines=%24+whoami;GAURAV+KAUSHIK+%E2%80%94+AI-Fullstack+Developer;%24+cat+focus.txt;Building+RAG+systems%2C+full-stack+apps%2C+AWS+pipelines;%24+status+--current;Diving+deep+into+AWS+%2B+Cloud+Full-Stack" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3500&pause=1000&color=FF6FB5&background=0D1117&center=true&vCenter=true&multiline=true&width=700&height=200&lines=%24+whoami;GAURAV+KAUSHIK+%E2%80%94+AI-Fullstack+Developer;%24+cat+focus.txt;Building+RAG+systems%2C+full-stack+apps%2C+AWS+pipelines;%24+status+--current;Diving+deep+into+AWS+%2B+Cloud+Full-Stack" alt="Typing SVG" />
 </a>
 
 <br/>
 
-![Degree](https://img.shields.io/badge/B.Tech-CSE%20(Data%20Science)-0D1117?style=flat-square&labelColor=0D1117&color=2ECC71)
-![University](https://img.shields.io/badge/JSS%20Academy%20of%20Technical%20Education-Noida-0D1117?style=flat-square&labelColor=0D1117&color=2ECC71)
-![Location](https://img.shields.io/badge/📍-Noida,%20Uttar%20Pradesh,%20India-0D1117?style=flat-square&labelColor=0D1117&color=2ECC71)
+![Degree](https://img.shields.io/badge/B.Tech-CSE%20(Data%20Science)-0D1117?style=flat-square&labelColor=0D1117&color=FF6FB5)
+![University](https://img.shields.io/badge/JSS%20Academy%20of%20Technical%20Education-Noida-0D1117?style=flat-square&labelColor=0D1117&color=FF6FB5)
+![Location](https://img.shields.io/badge/📍-Noida,%20Uttar%20Pradesh,%20India-0D1117?style=flat-square&labelColor=0D1117&color=FF6FB5)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-COMING%20SOON-0D1117?style=for-the-badge&labelColor=0D1117&color=2ECC71)](#)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=2ECC71&labelColor=0D1117&color=2ECC71)](https://linkedin.com/in/gaurav-kaushik-74529b276)
-[![Email](https://img.shields.io/badge/EMAIL-CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=2ECC71&labelColor=0D1117&color=2ECC71)](mailto:gauravkaushik1710@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-0D1117?style=for-the-badge&logo=github&logoColor=2ECC71&labelColor=0D1117&color=2ECC71)](https://github.com/gaurav171023)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-0D1117?style=for-the-badge&logo=instagram&logoColor=2ECC71&labelColor=0D1117&color=2ECC71)](https://instagram.com/kaushik_gaurav11)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-SOLVE-0D1117?style=for-the-badge&logo=leetcode&logoColor=2ECC71&labelColor=0D1117&color=2ECC71)](https://leetcode.com/u/gk55541/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-COMING%20SOON-0D1117?style=for-the-badge&labelColor=0D1117&color=FF6FB5)](#)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF6FB5&labelColor=0D1117&color=FF6FB5)](https://linkedin.com/in/gaurav-kaushik-74529b276)
+[![Email](https://img.shields.io/badge/EMAIL-CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6FB5&labelColor=0D1117&color=FF6FB5)](mailto:gauravkaushik1710@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-0D1117?style=for-the-badge&logo=github&logoColor=FF6FB5&labelColor=0D1117&color=FF6FB5)](https://github.com/gaurav171023)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-FOLLOW-0D1117?style=for-the-badge&logo=instagram&logoColor=FF6FB5&labelColor=0D1117&color=FF6FB5)](https://instagram.com/kaushik_gaurav11)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-SOLVE-0D1117?style=for-the-badge&logo=leetcode&logoColor=FF6FB5&labelColor=0D1117&color=FF6FB5)](https://leetcode.com/u/gk55541/)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gaurav171023&style=flat-square&color=2ECC71&labelColor=0D1117)
-![Followers](https://img.shields.io/github/followers/gaurav171023?style=flat-square&labelColor=0D1117&color=2ECC71)
-![Stars](https://img.shields.io/github/stars/gaurav171023?style=flat-square&labelColor=0D1117&color=2ECC71)
+![Profile Views](https://komarev.com/ghpvc/?username=gaurav171023&style=flat-square&color=FF6FB5&labelColor=0D1117)
+![Followers](https://img.shields.io/github/followers/gaurav171023?style=flat-square&labelColor=0D1117&color=FF6FB5)
+![Stars](https://img.shields.io/github/stars/gaurav171023?style=flat-square&labelColor=0D1117&color=FF6FB5)
 
 </div>
 
@@ -68,13 +68,13 @@ const gaurav = {
 
 ## `$ cat specialties.json`
 
-![RAG](https://img.shields.io/badge/RAG%20Architecture-0D1117?style=flat-square&labelColor=0D1117&color=2ECC71)
-![LLM Integration](https://img.shields.io/badge/LLM%20Integration-0D1117?style=flat-square&labelColor=0D1117&color=2ECC71)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-0D1117?style=flat-square&labelColor=0D1117&color=2ECC71)
-![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-0D1117?style=flat-square&labelColor=0D1117&color=2ECC71)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square&labelColor=0D1117&color=2ECC71)
-![JWT Auth](https://img.shields.io/badge/JWT%20Auth%20%26%20RBAC-0D1117?style=flat-square&labelColor=0D1117&color=2ECC71)
-![Cloud Deployment](https://img.shields.io/badge/AWS%20Cloud%20Deployment-0D1117?style=flat-square&labelColor=0D1117&color=2ECC71)
+![RAG](https://img.shields.io/badge/RAG%20Architecture-0D1117?style=flat-square&labelColor=0D1117&color=FF6FB5)
+![LLM Integration](https://img.shields.io/badge/LLM%20Integration-0D1117?style=flat-square&labelColor=0D1117&color=FF6FB5)
+![Vector Search](https://img.shields.io/badge/Vector%20Search-0D1117?style=flat-square&labelColor=0D1117&color=FF6FB5)
+![ETL Pipelines](https://img.shields.io/badge/ETL%20Pipelines-0D1117?style=flat-square&labelColor=0D1117&color=FF6FB5)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0D1117?style=flat-square&labelColor=0D1117&color=FF6FB5)
+![JWT Auth](https://img.shields.io/badge/JWT%20Auth%20%26%20RBAC-0D1117?style=flat-square&labelColor=0D1117&color=FF6FB5)
+![Cloud Deployment](https://img.shields.io/badge/AWS%20Cloud%20Deployment-0D1117?style=flat-square&labelColor=0D1117&color=FF6FB5)
 
 <br/>
 
@@ -165,7 +165,7 @@ const gaurav = {
 - Ran EDA on an 11,000+ record retail sales dataset to uncover purchasing patterns across demographics
 - Identified high-value customer segments to inform targeted marketing strategy
 
-`Skills:` ![](https://img.shields.io/badge/-Python-0D1117?style=flat-square&color=2ECC71) ![](https://img.shields.io/badge/-NLTK-0D1117?style=flat-square&color=2ECC71) ![](https://img.shields.io/badge/-Scikit--learn-0D1117?style=flat-square&color=2ECC71) ![](https://img.shields.io/badge/-Flask-0D1117?style=flat-square&color=2ECC71) ![](https://img.shields.io/badge/-Pandas-0D1117?style=flat-square&color=2ECC71)
+`Skills:` ![](https://img.shields.io/badge/-Python-0D1117?style=flat-square&color=FF6FB5) ![](https://img.shields.io/badge/-NLTK-0D1117?style=flat-square&color=FF6FB5) ![](https://img.shields.io/badge/-Scikit--learn-0D1117?style=flat-square&color=FF6FB5) ![](https://img.shields.io/badge/-Flask-0D1117?style=flat-square&color=FF6FB5) ![](https://img.shields.io/badge/-Pandas-0D1117?style=flat-square&color=FF6FB5)
 
 <br/>
 
@@ -189,7 +189,7 @@ const gaurav = {
 
 <div align="center">
 
-[![Education](https://img.shields.io/badge/B.Tech%20CSE%20(Data%20Science)-JSS%20Academy%20of%20Technical%20Education,%20Noida-0D1117?style=for-the-badge&labelColor=0D1117&color=2ECC71)](#)
+[![Education](https://img.shields.io/badge/B.Tech%20CSE%20(Data%20Science)-JSS%20Academy%20of%20Technical%20Education,%20Noida-0D1117?style=for-the-badge&labelColor=0D1117&color=FF6FB5)](#)
 
 </div>
 
@@ -199,7 +199,7 @@ const gaurav = {
 
 <div align="center">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-gk55541-0D1117?style=for-the-badge&logo=leetcode&logoColor=2ECC71&labelColor=0D1117&color=2ECC71)](https://leetcode.com/u/gk55541/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-gk55541-0D1117?style=for-the-badge&logo=leetcode&logoColor=FF6FB5&labelColor=0D1117&color=FF6FB5)](https://leetcode.com/u/gk55541/)
 
 </div>
 
@@ -209,10 +209,10 @@ const gaurav = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gaurav171023&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71&text_color=C9D1D9&ring_color=2ECC71" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav171023&theme=transparent&hide_border=true&background=0D1117&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gaurav171023&show_icons=true&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FF6FB5&icon_color=FF6FB5&text_color=C9D1D9&ring_color=FF6FB5" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav171023&theme=transparent&hide_border=true&background=0D1117&ring=FF6FB5&fire=FF6FB5&currStreakLabel=FF6FB5&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=C9D1D9" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav171023&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=2ECC71&text_color=C9D1D9" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav171023&layout=compact&theme=transparent&hide_border=true&bg_color=0D1117&title_color=FF6FB5&text_color=C9D1D9" width="49%"/>
 
 </div>
 
@@ -232,7 +232,7 @@ const gaurav = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav171023&theme=react-dark&bg_color=0D1117&color=2ECC71&line=2ECC71&point=C9D1D9&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gaurav171023&theme=react-dark&bg_color=0D1117&color=FF6FB5&line=FF6FB5&point=C9D1D9&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -283,11 +283,11 @@ open_to:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=2ECC71&labelColor=0D1117&color=2ECC71)](https://linkedin.com/in/gaurav-kaushik-74529b276)
-[![Email](https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=2ECC71&labelColor=0D1117&color=2ECC71)](mailto:gauravkaushik1710@gmail.com)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=2ECC71&labelColor=0D1117&color=2ECC71)](https://instagram.com/kaushik_gaurav11)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=2ECC71&labelColor=0D1117&color=2ECC71)](https://leetcode.com/u/gk55541/)
-[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=2ECC71&labelColor=0D1117&color=2ECC71)](https://github.com/gaurav171023)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF6FB5&labelColor=0D1117&color=FF6FB5)](https://linkedin.com/in/gaurav-kaushik-74529b276)
+[![Email](https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6FB5&labelColor=0D1117&color=FF6FB5)](mailto:gauravkaushik1710@gmail.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=FF6FB5&labelColor=0D1117&color=FF6FB5)](https://instagram.com/kaushik_gaurav11)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-0D1117?style=for-the-badge&logo=leetcode&logoColor=FF6FB5&labelColor=0D1117&color=FF6FB5)](https://leetcode.com/u/gk55541/)
+[![GitHub](https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FF6FB5&labelColor=0D1117&color=FF6FB5)](https://github.com/gaurav171023)
 
 <br/>
 
