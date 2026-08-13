@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-COMING%20SOON-0D1117?style=for-the-badge&labelColor=0D1117&color=FF6FB5)](#)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-COMING%20SOON-0D1117?style=for-the-badge&labelColor=0D1117&color=FF6FB5)](https://gaurav171023.github.io )
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CONNECT-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF6FB5&labelColor=0D1117&color=FF6FB5)](https://linkedin.com/in/gaurav-kaushik-74529b276)
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=FF6FB5&labelColor=0D1117&color=FF6FB5)](mailto:gauravkaushik1710@gmail.com)
 [![GitHub](https://img.shields.io/badge/GITHUB-FOLLOW-0D1117?style=for-the-badge&logo=github&logoColor=FF6FB5&labelColor=0D1117&color=FF6FB5)](https://github.com/gaurav171023)
